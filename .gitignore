@@ -1,0 +1,18 @@
+# Visual Studio
+.vs/
+x64/
+p4/
+Debug/
+Release/
+
+# Arquivos gerados na compilacao
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.exe
+*.log
+*.tlog
+*.db
+*.user

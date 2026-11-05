@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="JogoForca/JogoForca.vcxproj" Id="7d60525b-3dc3-4992-9764-1723979489c7" />
+</Solution>
